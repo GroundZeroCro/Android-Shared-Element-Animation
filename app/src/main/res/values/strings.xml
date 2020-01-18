@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityAnimation</string>
+    <string name="change_activity">Change Activity</string>
+    <string name="return_activity">Return</string>
+</resources>
